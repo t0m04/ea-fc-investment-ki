@@ -1,0 +1,5 @@
+player_id,player_name,date,price,event,rating,league,nation
+1,Player_1,2024-01-01,12000,none,84,EPL,ENG
+1,Player_1,2024-01-02,12500,TOTW,84,EPL,ENG
+2,Player_2,2024-01-01,5000,none,81,LaLiga,ESP
+2,Player_2,2024-01-02,4800,none,81,LaLiga,ESP
