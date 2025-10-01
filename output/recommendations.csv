@@ -1,0 +1,4 @@
+player_name,rating,position,league,nation,club,price,buy_below,expected_profit_coins,target_sell,confidence,window,segment
+Alexander Isak,88,ST,Premier League,Sweden,Newcastle United,118000,112000,8000,128000,0.82,3–5 Tage,meta
+Jude Bellingham,90,CM,LaLiga,England,Real Madrid,520000,498000,35000,555000,0.76,4–8 Tage,meta
+Ferran Torres,84,RW,LaLiga,Spain,FC Barcelona,18000,16500,2000,19500,0.64,2–4 Tage,fodder
